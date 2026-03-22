@@ -79,8 +79,8 @@ This project demonstrates real-world backend development concepts including API 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <https://github.com/Sruthilakhotia000/fastapi-medical-appointment-system >
-cd medical-appointment-system
+git clone https://github.com/Sruthilakhotia000/fastapi-medical-appointment-system.git
+cd fastapi-medical-appointment-system
 ```
 
 ### 2️⃣ Create Virtual Environment
